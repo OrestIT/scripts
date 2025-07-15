@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "start checking apache status"
 
-exit 2
+exit 0
